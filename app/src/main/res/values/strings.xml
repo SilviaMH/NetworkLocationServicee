@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ServiceLocationNtwrk</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="distance_TextView">Distancia</string>
+    <string name="time_TextView">Tiempo</string>
+    <string name="update_Button">Actualizar</string>
+    <string name="defaultNumber">0.0</string>
+    <string name="timeUnit_TextView">ms</string>
+    <string name="distanceUnit_TextView">m</string>
+</resources>
